@@ -8,36 +8,36 @@ const perguntas = [
     {
         enunciado: "Qual seu estilo de roupa favorito?",
         alternativas: [
-            "Elegante",
-            "Casual"
+          texto: "Elegante",
+          afirmação: "Casual"
         ]
     },
     {
         enunciado: "Qual combinação de cores você prefere?",
         alternativas: [
-            "Branco e bege.",
-            "Branco e preto.",
+          texto: "Branco e bege.",
+          afirmação: "Branco e preto.",
         ]
     },
     {
         enunciado: "Ao sair de casa, vocẽ escolhe ir com acessórios ou sem?",
         alternativas: [
-            "Com acessórios.",
-            "Sem acessórios."
+          texto: "Com acessórios.",
+          afirmação: "Sem acessórios."
         ]
     },
     {
         enunciado: "Na hora de se arrumar, vocẽ prioriza conforto ou elegãncia?",
         alternativas: [
-            "Conforto.",
-            "Elegãncia."
+          texto: "Conforto.",
+          afirmação: "Elegãncia."
         ]
     },
     {
         enunciado: "Você sabe montar looks com truques visuais?",
         alternativas: [
-           "Sim.",
-            "Não."
+          texto: "Sim.",
+          afirmação "Não."
         ]
     },
 ];
