@@ -37,7 +37,7 @@ const perguntas = [
         enunciado: "Você sabe montar looks com truques visuais?",
         alternativas: [
           texto: "Sim.",
-          afirmação "Não."
+          afirmação: "Não."
         ]
     },
 ];
